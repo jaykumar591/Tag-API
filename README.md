@@ -36,7 +36,7 @@ import {alltag} from './style.js';
     - obj = take all css properties in object form
     - text = give contant 
     - type = it is use when we you button, form , input any you use type to take attribute like input tag type text
-     [Link] (https://github.com/jaykumar591/Tag-API/blob/main/style.js);
+ [Link] (https://github.com/jaykumar591/Tag-API/blob/main/style.js);
 ### why I make this type of API
   when i go in template engine in backend i face lorts of problem like how to set all data in page and how to send it basically for who dont know aboud react
   in here i remove this type of problem we serve any type template like pug , handelbar , ejs then you just import this file and create how many you want to call tag 
