@@ -3,11 +3,11 @@ I create Tag API through Javascript
 I like to make of this type of API to remove our CSS file through this API
 We use this API to create webpage in few funtion call like call one funtion and give one object and create it
 ## How its work's
--it work on call function and give some css properties to make webpage
--css give in object formate but we short all parameter like if you want to take backgroundColor then just use bgI = 'red' and booms, like padding = p
--if you want to give attribute then simply use like onlick, unsubmit, just use type in here type we already give all type of attribute what tag which attribute need
--if you want to create dymanic page then this API for you to creat this type card, section , navigation bar , footer bar and etc
--show you thing about how can give containt in this tag we already provide text parameter in function when you call div tag then you give text containt
+- it work on call function and give some css properties to make webpage
+- css give in object formate but we short all parameter like if you want to take backgroundColor then just use bgI = 'red' and booms, like padding = p
+- if you want to give attribute then simply use like onlick, unsubmit, just use type in here type we already give all type of attribute what tag which attribute need
+- if you want to create dymanic page then this API for you to creat this type card, section , navigation bar , footer bar and etc
+- show you thing about how can give containt in this tag we already provide text parameter in function when you call div tag then you give text containt
 ## How API interface
 ```javascript
 import {alltag} from './style.js';
