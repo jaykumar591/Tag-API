@@ -4,8 +4,10 @@ I like to make of this type of API to remove our CSS file through this API
 We use this API to create webpage in few funtion call like call one funtion and give one object and create it
 ## How its work's
 - it work on call function and give some css properties to make webpage
-- css give in object formate but we short all parameter like if you want to set backgroundColor then just use bgI = 'red' and booms, like padding = p
-- if you want to give attribute then simply use like onlick, unsubmit, just use type in here type we already give all type of attribute what tag which attribute need
+- css give in object formate but we short all parameter like if you want to set backgroundColor then just use bgI = 'red' and booms, like 
+  padding = p
+- if you want to give attribute then simply use like onlick, unsubmit, just use type in here type we already give all type of attribute 
+   what tag which attribute need
 - if you want to create dymanic page then this API for you to creat this type card, section , navigation bar , footer bar and etc
 - show you thing about how can give containt in this tag we already provide text parameter in function when you call div tag then you give text containt
 ## How API interface
@@ -34,7 +36,7 @@ import {alltag} from './style.js';
     - obj = take all css properties in object form
     - text = give contant 
     - type = it is use when we you button, form , input any you use type to take attribute like input tag type text
-    [Link]('https://github.com/jaykumar591/Tag-API/blob/main/style.js');
+     [Link] (https://github.com/jaykumar591/Tag-API/blob/main/style.js);
 ### why I make this type of API
   when i go in template engine in backend i face lorts of problem like how to set all data in page and how to send it basically for who dont know aboud react
   in here i remove this type of problem we serve any type template like pug , handelbar , ejs then you just import this file and create how many you want to call tag 
