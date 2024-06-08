@@ -16,7 +16,7 @@ import {alltag} from './style.js';
    const obj = {
     c:'red',bg:'green',h:'30px',w:'500px',m:'20px',b:'2px solid blue'
    }
-  alltag.div({targate:'body',obj:obj,text:'hello world'});
+  alltag.div({targate:'body',obj:obj,text:'hello world'})
 ```
 ### Explain It How it works
   -now satrt with import
