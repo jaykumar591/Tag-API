@@ -4,7 +4,7 @@ I like to make of this type of API to remove our CSS file through this API
 We use this API to create webpage in few funtion call like call one funtion and give one object and create it
 ## How its work's
 - it work on call function and give some css properties to make webpage
-- css give in object formate but we short all parameter like if you want to set backgroundColor then just use bgI = 'red' and booms, like 
+- css give in object formate but we short all parameter like if you want to set backgroundColor then just use bgC = 'red' and booms, like 
   padding = p
 - if you want to give attribute then simply use like onlick, unsubmit, just use type in here type we already give all type of attribute 
    what tag which attribute need
